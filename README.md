@@ -1,4 +1,4 @@
-# How-to-deploy-Django-app-Sqlite-to-AWS-cloud
+# How-to-deploy-Django-app-Sqlite-to-AWS(EB)-cloud
 
 ### `Illustrative video:`
 
